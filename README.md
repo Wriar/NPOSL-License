@@ -1,5 +1,5 @@
 # NPOSL-License
-The following information is a paraphrased summary of the NPOSL license; license requirements follow the actual licensed text, located in **LICENSE**.
+The following information is a paraphrased summary of the NPOSL license; license requirements follow the actual licensed text, located in the **LICENSE** file.
 
 The NPOSL License (Non-Profit Open Source License) is an open source license created by Wriar that allows others to use and distribute your source code as long as they adhere to the terms and conditions of the license. This license is designed to encourage collaboration and innovation, while also protecting the interests of the original author.
 
