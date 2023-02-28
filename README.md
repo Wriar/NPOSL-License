@@ -8,14 +8,20 @@ Documentation For License Version: v1.0
 
 Under the terms of the **NPOSL** license, you are free to:
 
-- Use the source code for any purpose, including commercial use.
-- Modify the source code to suit your needs.
-- Distribute the source code to others.
+- ✅ Modify the source code to suit your needs.
+- ✅ Distribute the source code to others.
+- ✅ Internally distribute the modified source code or derivative works.
+- ✅ Publish public Open-Source projects/derivative works under the same license.
 
 However, there are some conditions that must be met:
 
-- Any derivative works or modifications to the source code must be released under the same license and made publicly available.
-- The source code and any derivative works must not be used for profit without express permission from the original author.
+- ⚠️ Any derivative works or modifications to the source code must be released under the same license and made publicly available.
+- ⚠️ The source code and any derivative works must not be used for profit without express permission from the original author.
+
+You may **NOT:**
+
+- ❌ Use the software for commercial purposes without express permission from the author
+- ❌ Public derivative works under a different license, other then the NPOSL.
 
 ## Copyright and Distribution
 
